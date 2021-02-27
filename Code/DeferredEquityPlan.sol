@@ -32,7 +32,7 @@ contract DeferredEquityPlan {
         // 1: `unlock_time` is less than or equal to `now`
         // 2: `distributed_shares` is less than the `total_shares`
         require(unlock_time <= now, "'unlock_time' is less than or equal to 'now'");
-        require(distributed_shares < total_shares, "'distributed_shares' is less than the 'total_shares'")
+        require(distributed_shares < total_shares, "'distributed_shares' is less than the 'total_shares'");
 
         // @TODO: Add 365 days to the `unlock_time`
         unlock_time += 365 days;
