@@ -10,7 +10,7 @@
 
 ### To Note
 
-* Before developing and testing the contracts, I have my blockchain network running in [Ganache](https://www.trufflesuite.com/ganache) and MetaMask extension connected and pointing to `Localhost:8545`.
+* Before developing and testing the contracts, I have my blockchain network running in [Ganache](https://www.trufflesuite.com/ganache) and [MetaMask](https://metamask.io/) extension connected and pointing to `Localhost:8545`.
 
 * In the `Deploy` tab in [Remix IDE](http://remix.ethereum.org), I connected to my local Ganache chain by selecting `Injected Web3` in the `Environment` column.
 
