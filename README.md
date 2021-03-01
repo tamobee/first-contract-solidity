@@ -2,8 +2,8 @@
 
 ## Files
 
-* [AssociateProfitSplitter.sol](Code/AssociateProfitSplitter.sol) -- [Level 1](#Level-One:-`AssociateProfitSplitter.sol`-Contract)
-* [TieredProfitSplitter.sol](Code/TieredProfitSplitter.sol) -- [Level 2](#Level-Two:-`TieredProfitSplitter.sol`-Contract)
+* [AssociateProfitSplitter.sol](Code/AssociateProfitSplitter.sol) -- [Level 1](#Level-One-`AssociateProfitSplitter.sol`-Contract)
+* [TieredProfitSplitter.sol](Code/TieredProfitSplitter.sol) -- [Level 2](#Level-Two-`TieredProfitSplitter.sol`-Contract)
 * [DeferredEquityPlan.sol](Code/DeferredEquityPlan.sol) -- [Level 3](#Level-Three-`DeferredEquityPlan.sol`-Contract)
 
 ---
