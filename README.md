@@ -48,4 +48,12 @@ In This contract 1000 shares are automatically distributed over 4 years to the e
 
 #### Compile and Deploy `DeferredEquityPlan.sol`
 
+For testing purposes, I created a new variable `uint fakenow = now;` and utilized the function to fast forward by 100 days:
+
+ ```solidity
+    function fastforward() public {
+        fakenow += 100 days;
+    }
+```
+
 ![Remix](Screenshots/Compile-deploy-level3.gif)
