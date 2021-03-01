@@ -46,10 +46,6 @@ In this contract rudimentary percentages are calculated for different tiers of e
 
 In This contract 1000 shares are automatically distributed over 4 years to the employee, deployed by HR.
 
-#### Compile `DeferredEquityPlan.sol`
+#### Compile and Deploy `DeferredEquityPlan.sol`
 
-![Remix](Screenshots/Compile-level3.gif)
-
-#### Deploy `DeferredEquityPlan.sol`
-
-![Remix](Screenshots/Deploy-level3.gif)
+![Remix](Screenshots/Compile-deploy-level3.gif)
